@@ -1,3 +1,3 @@
-welcome = function () {
-    document.getElementById("name").innerHTML="Welcome to Javascript programming!";
+sayHello = function() {
+    document.getElementById("hello-id").innerHTML = "Hello Boadu";
 }
